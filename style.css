@@ -21,3 +21,7 @@
     text-decoration:none;
     color: black;
 }
+#result {
+    color: gray;
+    background-color: white;
+}
